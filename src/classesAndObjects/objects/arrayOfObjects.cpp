@@ -11,6 +11,7 @@ int main()
 
     // Input or set the value of 'num'
     cout << "Enter the number of students: ";
+    
     cin >> num;
 
     // Array of objects having the same characteristics
